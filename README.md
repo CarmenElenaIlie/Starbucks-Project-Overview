@@ -1,10 +1,9 @@
-# Starbucks Capstone Project | Udacity - ML Engineer Nanodegree
+# Starbucks Capstone Project | Udacity 
 
 ## Overview
 
 Starbucks, one of the world’s most popular coffee shops, frequently provides offers to its customers through its rewards app to drive more sales. These offers can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). This project is focused on tailoring the promotional offers for customers based on their responses to the previous offers and predict the response of a customer to an offer. Firstly, to best analyze the data thoroughly, Exploratory Data Analysis(EDA) is performed to find the data representations & characteristics. Secondly, machine learning models are built  predict the customer’s response to an offer so that Starbucks can properly target who they send their offers to.
 
-A detailed report of analysis for this project is available [here](https://medium.com/@reachanihere/a-deep-dive-into-the-starbucks-capstone-challenge-8c03967fc8df?source=friends_link&sk=ba23bd1555e55d90293d3bc36244d93e).
 
 ## Datasets and Inputs
 
@@ -39,8 +38,7 @@ Here is the schema and explanation of each variable in the files:
 -   time (int) - time in hours since start of test. The data begins at time t=0
 -   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
-## Files
-The following files attached to this GitHub's repository include the following:
+
 -   **[Starbucks_Capstone_notebook.ipynb](https://github.com/reachanihere/Starbucks-Capstone/blob/master/Starbucks_Capstone_notebook.ipynb)**: This is the Jupyter Notebook in which I performed all my work.
 -   **[proposal.pdf](https://github.com/reachanihere/Starbucks-Capstone/blob/master/proposal.pdf)**: This document contains the initial project proposal I submitted prior to necessarily beginning this project.
 -   **[data](https://github.com/reachanihere/Starbucks-Capstone/tree/master/data)**: This contains the three JSON files provided by Starbucks / Udacity as noted above.
