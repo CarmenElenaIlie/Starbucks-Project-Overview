@@ -41,3 +41,5 @@ Here is the schema and explanation of each variable in the files:
 
 **Blogpost:** https://medium.com/@carmen.ilie/starbucks-capstone-project-f9c0082f4669
 
+**Acknowledgements**
+Special thanks to Starbucks and Udacity for providing the data utilized in this project!
