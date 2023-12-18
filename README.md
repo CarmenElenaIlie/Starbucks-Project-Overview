@@ -41,5 +41,14 @@ Here is the schema and explanation of each variable in the files:
 
 **Blogpost:** https://medium.com/@carmen.ilie/starbucks-capstone-project-f9c0082f4669
 
+**Files**
+The following files attached to this GitHub's repository include the following:
+
+Starbucks_Capstone_notebook.ipynb: This is the Jupyter Notebook in which I performed all my work.
+data: This contains the three JSON files provided by Starbucks / Udacity as noted above.
+portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+profile.json - demographic data for each customer
+transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
 **Acknowledgements**
 Special thanks to Starbucks and Udacity for providing the data utilized in this project!
