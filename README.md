@@ -38,6 +38,28 @@ Here is the schema and explanation of each variable in the files:
 -   time (int) - time in hours since start of test. The data begins at time t=0
 -   value - (dict of strings) - either an offer id or transaction amount depending on the record
 
+**Installations**
+This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
+
+pandas
+numpy
+math
+json
+matplotlib
+seaborn
+sklearn.model_selection (train_test_split module)
+sklearn.preprocessing (StandardScaler )
+tensorflow
+keras
+
+**Conclusions**
+Overall, this project was surprisingly challenging due to the structure of the transcript.json dataset and the preprocessing required to generate useful ML model predictions. However, I learned a lot in this project and developed solutions to the challenges discussed in the project proposal:
+
+Developed predictive ML models to classify whether views and completes a promotional offer based on personalized customer and offer characteristics
+Developed predictive ML models to determine how much a customer spends by completing an offer after subtracting out the reward cost. The ML predictive model outperforms the benchmark model in each of our three studies, and the benchmark models also perform pretty well.
+Determined the features that are most significant to whether or not a customer views and completes a promotional offer
+Defined key customer segment groups based on customer demographics
+The models and insights developed in this project allow the company to understand the primary drivers of an effective and profitable promotional offer. The predictive models will enable the company to personalize the characteristics of each promotion to maximize its odds of success for each customer. This project is an excellent example of how machine learning models benefit marketing campaigns and create business value. Lastly, this project shows why a more efficient and straightforward machine learning model is often preferable to a larger and more complex deep learning model.
 
 **Blogpost:** https://medium.com/@carmen.ilie/starbucks-capstone-project-f9c0082f4669
 
